@@ -1,0 +1,56 @@
+
+### Common Medical Conditions and Symptoms
+
+1. **Common Cold**
+   - Symptoms: Runny nose, sore throat, cough, congestion, mild body aches, sneezing, low-grade fever.
+   - Cause: Viral infection of the upper respiratory tract.
+   - Treatment: Rest, fluids, over-the-counter decongestants or antihistamines.
+
+2. **Influenza (Flu)**
+   - Symptoms: High fever, chills, muscle aches, fatigue, sore throat, dry cough.
+   - Cause: Influenza virus.
+   - Treatment: Antiviral medication (e.g., oseltamivir), rest, hydration.
+
+3. **Migraine**
+   - Symptoms: Throbbing headache (often one-sided), nausea, sensitivity to light and sound.
+   - Triggers: Stress, hormonal changes, certain foods, lack of sleep.
+   - Treatment: Pain relievers, triptans, lifestyle changes.
+
+4. **Strep Throat**
+   - Symptoms: Sudden sore throat, pain when swallowing, fever, swollen lymph nodes.
+   - Cause: Streptococcus pyogenes bacteria.
+   - Diagnosis: Rapid strep test or throat culture.
+   - Treatment: Antibiotics (e.g., penicillin, amoxicillin).
+
+5. **Pneumonia**
+   - Symptoms: Chest pain, cough with phlegm, fever, chills, difficulty breathing.
+   - Cause: Bacterial, viral, or fungal infection in the lungs.
+   - Diagnosis: Chest X-ray, blood tests.
+   - Treatment: Antibiotics (if bacterial), rest, oxygen therapy if severe.
+
+6. **COVID-19**
+   - Symptoms: Fever, cough, shortness of breath, fatigue, loss of taste/smell.
+   - Transmission: Respiratory droplets, airborne particles.
+   - Prevention: Vaccination, masks, hand hygiene.
+   - Treatment: Supportive care, antivirals (e.g., Paxlovid).
+
+7. **Sinus Infection (Sinusitis)**
+   - Symptoms: Facial pain, nasal congestion, headache, postnasal drip.
+   - Cause: Viral or bacterial infection of the sinuses.
+   - Treatment: Decongestants, saline sprays, antibiotics (if bacterial).
+
+---
+
+### Diagnostic Guidelines
+
+- If a patient has a fever, sore throat, and cough, consider **flu, common cold, or COVID-19**.
+- If there is a sudden severe headache with light sensitivity, consider **migraine**.
+- If cough produces green/yellow mucus and there's chest pain, consider **pneumonia**.
+- If the patient has swollen tonsils and pain swallowing, consider **strep throat**.
+
+---
+
+### Advice
+
+- Always recommend consulting a licensed healthcare provider for formal diagnosis.
+- Note patient history, allergy information, and symptom progression.
